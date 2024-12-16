@@ -1,0 +1,9 @@
+####################### Spotlight #########################
+style: "style1 orient-right content-align-left image-position-center onscroll-image-fade-in "
+title : "Jo"
+content: |
+  <strong>Coach en entreprise depuis 10 ans</strong>, avec une forte composante “organisation”, j’aime allier une posture de regard extérieur et le fait de “mettre les mains dans le cambouis” : j'aime apporter de l’énergie en plus de la réflexion. Mes passés d’ingénieur chimiste, de rugbyman, de développeur back-end, de scrum master ou de formateur me permettent d’avoir une large boîte à outils pour vous accompagner et vous aider à rechercher des solutions appropriées. </br> </br> <code>#Facilitation</code> <code>#Systémie</code> <code>#Agile</code>
+button: 
+  label: "en savoir plus"
+  link: "#"
+image: "images/JOLI.jpg"

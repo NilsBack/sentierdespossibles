@@ -1,0 +1,12 @@
+{{ define "main" }}
+
+	{{ partial "banner" site.Data.banner }}
+	{{ partial "spotlight" site.Data.HistoireCommune }}
+	{{ partial "items" site.Data.VousCherchez }}
+	{{ partial "spotlight" site.Data.Jo }}
+	{{ partial "spotlight" site.Data.Nils }}
+	{{ partial "items" site.Data.NosConvictions }}
+	{{ partial "form" . }}
+	{{ partial "footer" . }}
+
+{{ end }}

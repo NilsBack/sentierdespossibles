@@ -1,0 +1,26 @@
+title : "Nos convictions"
+content: |
+  pour un accompagnement avec de l'impact
+style: "style1 big onscroll-fade-in"
+items:
+  # feature item loop
+  - name : "Humilité"
+    content : "Partir de là où vous êtes"
+    style : "style2 major fa-mountain"
+    
+  # feature item loop
+  - name: "Être utile"
+    content: "(et pas seulement occupé·e)"
+    style : "solid style2 major fa-handshake"
+
+  # feature item loop
+  - name: "Authenticité"
+    content: "Oser se dire les choses comme elles sont."
+    style : "solid style2 major fa-anchor"
+
+  # feature item loop
+  - name: "Audace"
+    content: "Faire avant tout. Faire petit. Faire pas parfait. Faire ensemble. Essayer, tester, expérimenter."
+    style : "solid style2 major fa-angles-right"
+
+    
