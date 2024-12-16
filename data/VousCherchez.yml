@@ -1,0 +1,22 @@
+title : "Vous cherchez ?"
+content: |
+  Nous avons plein d'outils dans notre sac à dos pour vous accompagner. </br>
+  Voici une petite liste non exhaustive et peut-être non adaptée à votre situation de ce qu'on sait faire. </br>
+  Le mieux reste de discuter de votre contexte pour trouver ensemble la meilleure manière de vous accompagner
+style: "style1 medium onscroll-fade-in"
+items:
+  # feature item loop
+  - name : "Un guide pour préparer votre grande randonnée ?"
+    content : "Vous avez envie/besoin de changement, mais ne savez pas par où commencer ? "
+    style : "solid style2 major fa-vest-patches"
+
+  # feature item loop
+  - name : "Un guide pour accompagner votre grande randonnée ?"
+    content : "Vous êtes en plein changement, vous avez besoin d'un guide"
+    style : "solid style2 major fa-person-hiking"
+    
+  # feature item loop
+  - name : "Former des guides au sein de votre structure ?"
+    content : "Vous avez besoin d'avoir des guides en interne ?"
+    style : "solid style2 major fa-person-chalkboard"
+    

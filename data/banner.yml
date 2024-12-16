@@ -1,0 +1,12 @@
+####################### Banner #########################
+style: "style1 color2 orient-left content-align-left image-position-center fullscreen onload-image-fade-in onload-content-fade-right"
+title : "Sentier des possibles"
+subtitle: |
+  Bonjour et bienvenue,
+content : |
+  Nous vous proposons de partager un bout de chemin ensemble pour oser rêver à des horizons différents et des nouveaux possibles.
+button : 
+  label : "En savoir plus"
+  link : "#first"
+image : "images/Logo-SDP.jpg"
+

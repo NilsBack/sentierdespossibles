@@ -1,0 +1,65 @@
+title : "Items"
+content: |
+  This is an <strong>Items</strong> element, and it's basically just a grid for organizing items of various types. You can customize its <span class="demo-controls">appearance with a number of modifiers</span>, as well as assign it an optional <code>onload</code> or <code>onscroll</code> transition modifier (<a href="#reference-items">details</a>).
+style: "style1 medium onscroll-fade-in"
+items:
+  # feature item loop
+  - name : "Vous cherchez ?"
+    content : "Un guide pour préparer votre grande randonnée ?"
+    style : "style2 major fa-comments-question-check"
+
+  # feature item loop
+  - name : "Vous cherchez ?"
+    content : "Une guide pour accompagner votre grande randonnée ?"
+    style : "solid style2 major fa-save"
+    
+  # feature item loop
+  - name : "Vous cherchez ?"
+    content : "Former des guides au sein de votre structure ?"
+    style : "solid style2 major fa-block-question"
+    
+  # feature item loop
+  - name : ""
+    content : "Vous avez envie/besoin de changement, mais ne savez pas par où commencer ?"
+    style : "solid style2 major fa-message-question"
+    
+  # feature item loop
+  - name : ""
+    content : "Vous êtes en plein changement, vous avez besoin d'un guide"
+    style : "solid style2 major fa-question"
+    
+  # feature item loop
+  - name : ""
+    content : "Vous avez besoin d'avoir des guides en interne."
+    style : "style2 major fa-paper-plane"
+    
+  # feature item loop
+  - name : "Seven"
+    content : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi dui turpis, cursus eget orci amet aliquam congue semper. Etiam eget ultrices risus nec tempor elit."
+    style : "solid style2 major fa-users-viewfinder"
+    
+  # feature item loop
+  - name : "Eight"
+    content : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi dui turpis, cursus eget orci amet aliquam congue semper. Etiam eget ultrices risus nec tempor elit."
+    style : "solid style2 major fa-camera-viewfinder"
+    
+  # feature item loop
+  - name : "Nine"
+    content : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi dui turpis, cursus eget orci amet aliquam congue semper. Etiam eget ultrices risus nec tempor elit."
+    style : "solid style2 major fa-hashtag"
+    
+  # feature item loop
+  - name : "Ten"
+    content : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi dui turpis, cursus eget orci amet aliquam congue semper. Etiam eget ultrices risus nec tempor elit."
+    style : "solid style2 major fa-bolt"
+    
+  # feature item loop
+  - name : "Eleven"
+    content : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi dui turpis, cursus eget orci amet aliquam congue semper. Etiam eget ultrices risus nec tempor elit."
+    style : "style2 major fa-envelope"
+    
+  # feature item loop
+  - name : "Twelve"
+    content : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi dui turpis, cursus eget orci amet aliquam congue semper. Etiam eget ultrices risus nec tempor elit."
+    style : "solid style2 major fa-leaf"
+    
