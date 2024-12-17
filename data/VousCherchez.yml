@@ -3,7 +3,7 @@ content: |
   Nous avons plein d'outils dans notre sac à dos pour vous accompagner. </br>
   Voici une petite liste non exhaustive et peut-être non adaptée à votre situation de ce qu'on sait faire. </br>
   Le mieux reste de discuter de votre contexte pour trouver ensemble la meilleure manière de vous accompagner
-style: "style1 medium onscroll-fade-in"
+style: "style1 big onscroll-fade-in"
 items:
   # feature item loop
   - name : "Un guide pour préparer votre grande randonnée ?"
@@ -19,4 +19,10 @@ items:
   - name : "Former des guides au sein de votre structure ?"
     content : "Vous avez besoin d'avoir des guides en interne ?"
     style : "solid style2 major fa-person-chalkboard"
+
+  # feature item loop
+  - name : "Contactez-nous"
+    content : "Pour trouver ensemble la meilleure manière de vous accompagner"
+    style : "solid style2 major fa-mug-hot"
+
     

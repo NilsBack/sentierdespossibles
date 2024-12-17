@@ -32,17 +32,14 @@ disableKinds = ["taxonomy", "section"]
 ## -----------------------------------------------
 
 [Params]
-  description = "A (modular, highly tweakable) responsive one-page theme for Hugo"
-  logo = "images/banner.jpg"
+  description = "Partager un bout de chemin ensemble et oser rêver à des horizons différents et des nouveaux possibles"
+  logo = "images/Logo-SDP.jpg"
   favicon = true
 
 [Params.social]
-  github = "https://github.com/caressofsteel/"
-  --twitter = "https://twitter.com/caressofsteel_"
+  github = "https://github.com/NilsBack/sentierdespossibles"
   email = "nils.lesieur@protonmail.com"
-  --instagram = "https://instagram.com"
   linkedin = "https://www.linkedin.com/company/sentier-des-possibles"
-  --telegram = "https://telegram.org"
   
 [Params.asset]
   fontawesome_css = ["css/fontawesome-all.min.css"]
