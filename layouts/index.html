@@ -1,12 +1,13 @@
 {{ define "main" }}
 
 	{{ partial "banner" site.Data.banner }}
-	{{ partial "spotlight" site.Data.HistoireCommune }}
+	{{ partial "spotlight" site.Data.CestQuoi }}
 	{{ partial "items" site.Data.VousCherchez }}
+	{{ partial "spotlight_contact" site.Data.Contact }}
 	{{ partial "spotlight" site.Data.Jo }}
 	{{ partial "spotlight" site.Data.Nils }}
 	{{ partial "items" site.Data.NosConvictions }}
-	{{ partial "form" . }}
+	<!--{{ partial "form" . }}-->
 	{{ partial "footer" . }}
 
 {{ end }}

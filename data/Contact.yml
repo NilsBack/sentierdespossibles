@@ -1,0 +1,11 @@
+####################### Spotlight #########################
+style: "style1 color2 orient-right content-align-center image-position-center onscroll-image-fade-in "
+title : "Pour nous contacter"
+content:
+  et en savoir plus pour trouver ensemble la meilleure manière de vous accompagner
+button_mail:
+  label: "par mail"
+  link: "mailto:nils.lesieur@protonmail.com?cc=jo.litty@gmail.com&subject=Suite%20à%20ma%20visite%20sur%20le%20site%20du%20sentier%20des%20possibles"
+button_linkedIn:
+  label: "via LinkedIn"
+  link: "https://www.linkedin.com/company/sentier-des-possibles"  

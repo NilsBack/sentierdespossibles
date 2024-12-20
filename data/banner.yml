@@ -2,9 +2,9 @@
 style: "style1 color2 orient-left content-align-left image-position-center fullscreen onload-image-fade-in onload-content-fade-right"
 title : "Sentier des possibles"
 subtitle: |
-  Bonjour et bienvenue,
+  Un bout de chemin à partager avec celles et ceux qui osent rêver d'horizons différents et de nouveaux possibles.
 content : |
-  Nous vous proposons de partager un bout de chemin ensemble pour oser rêver à des horizons différents et des nouveaux possibles.
+  
 button : 
   label : "En savoir plus"
   link : "#first"
