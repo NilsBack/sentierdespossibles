@@ -6,4 +6,7 @@ content: |
 button: 
   label: "en savoir plus"
   link: "https://www.linkedin.com/in/jlitty/"
+button_contact: 
+  label: "me contacter"
+  link: "mailto:jo.litty@gmail.com"
 image: "images/JOLI.jpg"

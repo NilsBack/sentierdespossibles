@@ -3,9 +3,15 @@
     <div class="content">
         {{ with .title }}<h2>{{ . }}</h2>{{ end }}
         {{ with .content }}<p>{{ . | safeHTML }}</p>{{ end }}
-        {{ with .button }}<ul class="actions stacked">
+        <ul class="actions stacked">
+            <li>{{ with .button }}<a href="{{ .link }}" class="button primary">{{ .label }}</a>{{ end }}
+                {{ with .button_contact }}<a href="{{ .link }}" class="button icon thin fa-envelope">{{ .label }}</a>{{ end }}
+            </li>
+
+            <!--{{ with .button }}<ul class="actions stacked">
             <li><a href="{{ .link }}" class="button">{{ .label }}</a></li>
         </ul>{{ end }}
+                -->
     </div>
     {{ with .image }}<div class="image">
         <img src="{{ . }}" alt="" />
