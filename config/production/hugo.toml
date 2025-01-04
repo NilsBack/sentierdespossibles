@@ -17,7 +17,7 @@ baseURL = "/"
 publishDir = "public"
 
 # Remote
-baseURL = "https://sentierdespossibles.fr"
+#baseURL = "https://sentierdespossibles.fr"
 #publishDir = "//centos/sites/hugodev/hugostory/"
 
 ## -----------------------------------------------
